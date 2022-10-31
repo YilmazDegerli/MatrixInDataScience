@@ -1,0 +1,20 @@
+# Matrix in Mathematics and Data Science
+
+Matrices are commonly used in many areas, such as physics, graphics, risk modeling, and statistics.
+Getting familiar with matrices and their transformations is relatively easy but crucial to understanding data science concepts, including linear regression.
+
+Vector and matrices play a central role in data science: they are probably the most common way of representing data to be analyzed
+and manipulated by virtually any machine learning or analytics algorithm. However, it is also important to understand that
+there really two uses to matrices within data science:
+1.	Matrices are the “obvious” way to store tabular data (particularly when all the data is numeric) in an efficient manner.
+2.	Matrices are the foundation of linear algebra, which the “language” of most machine learning and analytics algorithms.
+
+Before diving Data Science, learning the Matrices is quite important. Therefore I made some research in internet and find fabulous sites about this subjects.
+I want to share these sites links with you. I hope that you will like these writings, learn from somethings there and increase your knowledge.
+* [https://towardsdatascience.com/math-refresher-for-data-scientist-part-1-matrices-88620a92d046](https://towardsdatascience.com/math-refresher-for-data-scientist-part-1-matrices-88620a92d046)
+* [http://www.datasciencecourse.org/notes/matrices/](http://www.datasciencecourse.org/notes/matrices/)
+* [https://www.sparknotes.com/math/algebra2/matrices/summary/](https://www.sparknotes.com/math/algebra2/matrices/summary/)
+* [https://www.technopat.net/sosyal/konu/algoritmada-matematigin-oenemi-nedir.2203928/](https://www.technopat.net/sosyal/konu/algoritmada-matematigin-oenemi-nedir.2203928/)
+* [https://www.patika.dev/](https://www.patika.dev/)
+
+I wish you always sunny days,
